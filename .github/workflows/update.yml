@@ -1,0 +1,19 @@
+on:
+  workflow_dispatch
+  schedule:
+    - cron: "*/20 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    container:
+      image: jhayd/alpine-deno:1.8.3
+    steps:
+      - uses: actions/checkout@v2
+      - run: deno run --allow-net --allow-write --allow-read --unstable update.ts
+      - name: Push to branch
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: data
+          FOLDER: data
