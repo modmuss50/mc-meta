@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: deno run --allow-net --allow-write --allow-read --unstable update.ts
+      - run: apk add bash git
       - run: rm .gitignore
       - uses: 1466587594/get-current-time@v2
         id: current-time
