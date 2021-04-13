@@ -8,7 +8,7 @@ jobs:
   update:
     runs-on: ubuntu-20.04
     container:
-      image: jhayd/alpine-deno:1.8.3
+      image: hayd/alpine-deno:1.8.3
     steps:
       - uses: actions/checkout@v2
       - run: deno run --allow-net --allow-write --allow-read --unstable update.ts

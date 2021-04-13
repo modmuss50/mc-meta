@@ -1,4 +1,3 @@
-import { download } from "https://deno.land/x/download@v1.0.1/mod.ts";
 import { ensureDir } from "https://deno.land/std@0.93.0/fs/mod.ts";
 
 console.log("Updating");
