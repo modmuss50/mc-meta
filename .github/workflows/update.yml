@@ -12,6 +12,8 @@ jobs:
       image: hayd/alpine-deno:1.8.3
     steps:
       - uses: actions/checkout@v2
+        with:
+          clean: false
       - run: deno run --allow-net --allow-write --allow-read --unstable update.ts
       - run: apk add bash git
       - run: rm .gitignore
