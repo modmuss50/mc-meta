@@ -1,0 +1,155 @@
+{
+  "linux": {
+    "java-runtime-alpha": [],
+    "jre-legacy": [
+      {
+        "availability": {
+          "group": 6513,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "a1c15cc788f8893fba7e988eb27404772f699a84",
+          "size": 125581,
+          "url": "https://launchermeta.mojang.com/v1/packages/a1c15cc788f8893fba7e988eb27404772f699a84/manifest.json"
+        },
+        "version": {
+          "name": "8u202",
+          "released": "2020-11-17T19:26:25+00:00"
+        }
+      }
+    ],
+    "minecraft-java-exe": []
+  },
+  "linux-i386": {
+    "java-runtime-alpha": [],
+    "jre-legacy": [
+      {
+        "availability": {
+          "group": 4119,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "64c6a0b8e3427c6c3f3ce82729aada8b2634a955",
+          "size": 126498,
+          "url": "https://launchermeta.mojang.com/v1/packages/64c6a0b8e3427c6c3f3ce82729aada8b2634a955/manifest.json"
+        },
+        "version": {
+          "name": "8u202",
+          "released": "2020-11-17T19:28:39+00:00"
+        }
+      }
+    ],
+    "minecraft-java-exe": []
+  },
+  "mac-os": {
+    "java-runtime-alpha": [],
+    "jre-legacy": [
+      {
+        "availability": {
+          "group": 8727,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "341663b48a0d4e1c448dc789463fced6ba0962e1",
+          "size": 77382,
+          "url": "https://launchermeta.mojang.com/v1/packages/341663b48a0d4e1c448dc789463fced6ba0962e1/manifest.json"
+        },
+        "version": {
+          "name": "8u74",
+          "released": "2020-11-17T19:06:44+00:00"
+        }
+      }
+    ],
+    "minecraft-java-exe": []
+  },
+  "windows-x64": {
+    "java-runtime-alpha": [
+      {
+        "availability": {
+          "group": 3678,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "36013431bb699b9b82f66a2eb49364f1195b5205",
+          "size": 124010,
+          "url": "https://launchermeta.mojang.com/v1/packages/36013431bb699b9b82f66a2eb49364f1195b5205/manifest.json"
+        },
+        "version": {
+          "name": "15.0.2_7",
+          "released": "2021-03-11T15:59:52+00:00"
+        }
+      }
+    ],
+    "jre-legacy": [
+      {
+        "availability": {
+          "group": 3654,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "ddc568a50326d2cf85765abb61e752aab191c366",
+          "size": 78978,
+          "url": "https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json"
+        },
+        "version": {
+          "name": "8u51",
+          "released": "2020-11-17T19:12:13+00:00"
+        }
+      }
+    ],
+    "minecraft-java-exe": [
+      {
+        "availability": {
+          "group": 23,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "956d6567682740ab6327a1e8357658d8f7b86421",
+          "size": 455,
+          "url": "https://launchermeta.mojang.com/v1/packages/956d6567682740ab6327a1e8357658d8f7b86421/manifest.json"
+        },
+        "version": {
+          "name": "14",
+          "released": "2021-03-25T22:47:03+00:00"
+        }
+      }
+    ]
+  },
+  "windows-x86": {
+    "java-runtime-alpha": [],
+    "jre-legacy": [
+      {
+        "availability": {
+          "group": 4866,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "baa62193c2785f54d877d871d9859c67d65f08ba",
+          "size": 80613,
+          "url": "https://launchermeta.mojang.com/v1/packages/baa62193c2785f54d877d871d9859c67d65f08ba/manifest.json"
+        },
+        "version": {
+          "name": "8u51",
+          "released": "2020-11-17T19:10:36+00:00"
+        }
+      }
+    ],
+    "minecraft-java-exe": [
+      {
+        "availability": {
+          "group": 5779,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "5d5cf8b579ccf4a3567eef481b12479ee8c35369",
+          "size": 455,
+          "url": "https://launchermeta.mojang.com/v1/packages/5d5cf8b579ccf4a3567eef481b12479ee8c35369/manifest.json"
+        },
+        "version": {
+          "name": "12",
+          "released": "2021-03-25T22:47:02+00:00"
+        }
+      }
+    ]
+  }
+}
