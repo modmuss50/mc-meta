@@ -17,10 +17,10 @@ jobs:
           deno-version: v1.9.0
       - run: |
           deno run --allow-net --allow-write --allow-read --unstable update.ts
-          rm .gitignore
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git status
-          git commit -m "Update ${{ steps.current-time.outputs.time }}"
-          git push
+          git add data --force
+          if [[ `git status --porcelain` ]]; then
+            git commit -m "Update ${{ steps.current-time.outputs.time }}"
+            git push
+          fi
