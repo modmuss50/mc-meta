@@ -8,10 +8,11 @@ jobs:
   update:
     runs-on: ubuntu-20.04
     container:
-      image: hayd/ubuntu-deno:1.8.3
+      image: hayd/alpine-deno:1.8.3
     steps:
       - uses: actions/checkout@v2
       - run: deno run --allow-net --allow-write --allow-read --unstable update.ts
+      - run: apk add git
       - name: Push to branch
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
