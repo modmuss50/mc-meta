@@ -1,4 +1,9 @@
 {
+  "gamecore": {
+    "java-runtime-alpha": [],
+    "jre-legacy": [],
+    "minecraft-java-exe": []
+  },
   "linux": {
     "java-runtime-alpha": [],
     "jre-legacy": [
@@ -66,17 +71,17 @@
     "java-runtime-alpha": [
       {
         "availability": {
-          "group": 3678,
+          "group": 4557,
           "progress": 100
         },
         "manifest": {
-          "sha1": "36013431bb699b9b82f66a2eb49364f1195b5205",
-          "size": 124010,
-          "url": "https://launchermeta.mojang.com/v1/packages/36013431bb699b9b82f66a2eb49364f1195b5205/manifest.json"
+          "sha1": "e67a3d7cddb823dd58fa2ef524cd355b85903a74",
+          "size": 72691,
+          "url": "https://launchermeta.mojang.com/v1/packages/e67a3d7cddb823dd58fa2ef524cd355b85903a74/manifest.json"
         },
         "version": {
-          "name": "15.0.2_7",
-          "released": "2021-03-11T15:59:52+00:00"
+          "name": "16.0.1+9",
+          "released": "2021-05-10T13:29:06+00:00"
         }
       }
     ],
