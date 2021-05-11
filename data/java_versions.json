@@ -66,17 +66,17 @@
     "java-runtime-alpha": [
       {
         "availability": {
-          "group": 7211,
+          "group": 3212,
           "progress": 100
         },
         "manifest": {
-          "sha1": "ab241f07b5d03da642c999ae88d5ee1db5a1861c",
-          "size": 90534,
-          "url": "https://launchermeta.mojang.com/v1/packages/ab241f07b5d03da642c999ae88d5ee1db5a1861c/manifest.json"
+          "sha1": "5a480fde2214534ab0b51ae78c70455ffd7c0e6a",
+          "size": 95323,
+          "url": "https://launchermeta.mojang.com/v1/packages/5a480fde2214534ab0b51ae78c70455ffd7c0e6a/manifest.json"
         },
         "version": {
-          "name": "16.0.1.9.1_2",
-          "released": "2021-05-11T11:01:24+00:00"
+          "name": "16.0.1.9.1_3",
+          "released": "2021-05-11T15:03:25+00:00"
         }
       }
     ],
