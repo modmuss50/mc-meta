@@ -1,6 +1,7 @@
 {
   "gamecore": {
     "java-runtime-alpha": [],
+    "java-runtime-beta": [],
     "jre-legacy": [],
     "minecraft-java-exe": []
   },
@@ -19,6 +20,23 @@
         "version": {
           "name": "16.0.1.9.1",
           "released": "2021-05-10T16:43:02+00:00"
+        }
+      }
+    ],
+    "java-runtime-beta": [
+      {
+        "availability": {
+          "group": 3563,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "00045968710898a03aaae8bb08060019e4c97f6d",
+          "size": 81503,
+          "url": "https://launchermeta.mojang.com/v1/packages/00045968710898a03aaae8bb08060019e4c97f6d/manifest.json"
+        },
+        "version": {
+          "name": "17.0.1.12.1",
+          "released": "2021-11-15T14:15:19+00:00"
         }
       }
     ],
@@ -43,6 +61,7 @@
   },
   "linux-i386": {
     "java-runtime-alpha": [],
+    "java-runtime-beta": [],
     "jre-legacy": [
       {
         "availability": {
@@ -80,6 +99,23 @@
         }
       }
     ],
+    "java-runtime-beta": [
+      {
+        "availability": {
+          "group": 1943,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "d1455136997ca90bfa5f081159dc2502606ec1c1",
+          "size": 95464,
+          "url": "https://launchermeta.mojang.com/v1/packages/d1455136997ca90bfa5f081159dc2502606ec1c1/manifest.json"
+        },
+        "version": {
+          "name": "17.0.1.12.1",
+          "released": "2021-11-15T13:49:56+00:00"
+        }
+      }
+    ],
     "jre-legacy": [
       {
         "availability": {
@@ -114,6 +150,23 @@
         "version": {
           "name": "16.0.1.9.1",
           "released": "2021-05-10T16:48:07+00:00"
+        }
+      }
+    ],
+    "java-runtime-beta": [
+      {
+        "availability": {
+          "group": 3251,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "b180218a447157cfd0b639aa94b0fa1fc522f80e",
+          "size": 145530,
+          "url": "https://launchermeta.mojang.com/v1/packages/b180218a447157cfd0b639aa94b0fa1fc522f80e/manifest.json"
+        },
+        "version": {
+          "name": "17.0.1.12.1",
+          "released": "2021-11-15T14:22:04+00:00"
         }
       }
     ],
@@ -167,6 +220,23 @@
         "version": {
           "name": "16.0.1.9.1",
           "released": "2021-05-10T16:45:24+00:00"
+        }
+      }
+    ],
+    "java-runtime-beta": [
+      {
+        "availability": {
+          "group": 7598,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a",
+          "size": 145146,
+          "url": "https://launchermeta.mojang.com/v1/packages/6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a/manifest.json"
+        },
+        "version": {
+          "name": "17.0.1.12.1",
+          "released": "2021-11-15T14:19:45+00:00"
         }
       }
     ],
