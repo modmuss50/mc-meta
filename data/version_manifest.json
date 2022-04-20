@@ -1,49 +1,56 @@
 {
   "latest": {
     "release": "1.18.2",
-    "snapshot": "22w15a"
+    "snapshot": "22w16a"
   },
   "versions": [
     {
+      "id": "22w16a",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/34219564fefd4e925314a935e8a12af32b7ec222/22w16a.json",
+      "time": "2022-04-20T14:44:37+00:00",
+      "releaseTime": "2022-04-20T14:37:07+00:00"
+    },
+    {
       "id": "22w15a",
       "type": "snapshot",
-      "url": "https://launchermeta.mojang.com/v1/packages/884c9042aa5877be1e8e282a4723a7778e1246ab/22w15a.json",
-      "time": "2022-04-13T15:45:23+00:00",
+      "url": "https://launchermeta.mojang.com/v1/packages/c34606ea9c90979a5c6bec1affbbc07f22a446e9/22w15a.json",
+      "time": "2022-04-20T14:26:09+00:00",
       "releaseTime": "2022-04-13T15:41:17+00:00"
     },
     {
       "id": "22w14a",
       "type": "snapshot",
-      "url": "https://launchermeta.mojang.com/v1/packages/75e1f7841cf1f07444130b808e3278d8f202aa98/22w14a.json",
-      "time": "2022-04-13T14:35:58+00:00",
+      "url": "https://launchermeta.mojang.com/v1/packages/875970cecdd59ecd9054951a7ba1c8b007be9827/22w14a.json",
+      "time": "2022-04-20T14:26:09+00:00",
       "releaseTime": "2022-04-06T13:37:12+00:00"
     },
     {
       "id": "22w13oneblockatatime",
       "type": "snapshot",
-      "url": "https://launchermeta.mojang.com/v1/packages/f7e5eed7afc28944297b300f95977ca9795c926f/22w13oneblockatatime.json",
-      "time": "2022-04-13T14:35:58+00:00",
+      "url": "https://launchermeta.mojang.com/v1/packages/41d87ccc2afdf8d8c54e163f55bde61ead5a36c8/22w13oneblockatatime.json",
+      "time": "2022-04-20T14:26:09+00:00",
       "releaseTime": "2022-04-01T11:56:58+00:00"
     },
     {
       "id": "22w13a",
       "type": "snapshot",
-      "url": "https://launchermeta.mojang.com/v1/packages/7b8520bebfb7cff8aa3084205a15038dd91be8c4/22w13a.json",
-      "time": "2022-04-13T14:35:58+00:00",
+      "url": "https://launchermeta.mojang.com/v1/packages/a6eec88e94cf2a1e4f5ef6405622eb9582646826/22w13a.json",
+      "time": "2022-04-20T14:26:09+00:00",
       "releaseTime": "2022-03-31T14:53:25+00:00"
     },
     {
       "id": "22w12a",
       "type": "snapshot",
-      "url": "https://launchermeta.mojang.com/v1/packages/ded4f4ccda86ce495778192afe3d9529dfa45d93/22w12a.json",
-      "time": "2022-04-13T14:35:58+00:00",
+      "url": "https://launchermeta.mojang.com/v1/packages/703fc5980155b694eff084fcaa40cfedd7605154/22w12a.json",
+      "time": "2022-04-20T14:26:09+00:00",
       "releaseTime": "2022-03-24T16:15:02+00:00"
     },
     {
       "id": "22w11a",
       "type": "snapshot",
-      "url": "https://launchermeta.mojang.com/v1/packages/7d091c9fc156c611ba357fea9ad1fda1ebada85a/22w11a.json",
-      "time": "2022-04-13T14:35:58+00:00",
+      "url": "https://launchermeta.mojang.com/v1/packages/966ec849557f793a95e6872d7e45bc8b39084a07/22w11a.json",
+      "time": "2022-04-20T14:26:09+00:00",
       "releaseTime": "2022-03-16T15:55:38+00:00"
     },
     {
@@ -3848,16 +3855,16 @@
       "releaseTime": "2012-12-27T22:00:00+00:00"
     },
     {
-      "id": "1.4.6",
+      "id": "1.4.5",
       "type": "release",
-      "url": "https://launchermeta.mojang.com/v1/packages/09832797138da79745ade734da775f44c254066b/1.4.6.json",
+      "url": "https://launchermeta.mojang.com/v1/packages/d64a902a48a6a618f9a0a82c183be454e7a1f23b/1.4.5.json",
       "time": "2022-03-10T09:51:38+00:00",
       "releaseTime": "2012-12-19T22:00:00+00:00"
     },
     {
-      "id": "1.4.5",
+      "id": "1.4.6",
       "type": "release",
-      "url": "https://launchermeta.mojang.com/v1/packages/d64a902a48a6a618f9a0a82c183be454e7a1f23b/1.4.5.json",
+      "url": "https://launchermeta.mojang.com/v1/packages/09832797138da79745ade734da775f44c254066b/1.4.6.json",
       "time": "2022-03-10T09:51:38+00:00",
       "releaseTime": "2012-12-19T22:00:00+00:00"
     },
