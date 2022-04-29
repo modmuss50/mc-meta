@@ -2,6 +2,7 @@
   "gamecore": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
+    "java-runtime-gamma": [],
     "jre-legacy": [],
     "minecraft-java-exe": []
   },
@@ -40,6 +41,23 @@
         }
       }
     ],
+    "java-runtime-gamma": [
+      {
+        "availability": {
+          "group": 1661,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "7be0784f0c88afe4c5e5da54906f4da127ad5bfb",
+          "size": 81969,
+          "url": "https://piston-meta.mojang.com/v1/packages/7be0784f0c88afe4c5e5da54906f4da127ad5bfb/manifest.json"
+        },
+        "version": {
+          "name": "17.0.3",
+          "released": "2022-04-29T11:40:02+00:00"
+        }
+      }
+    ],
     "jre-legacy": [
       {
         "availability": {
@@ -62,6 +80,7 @@
   "linux-i386": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
+    "java-runtime-gamma": [],
     "jre-legacy": [
       {
         "availability": {
@@ -116,6 +135,23 @@
         }
       }
     ],
+    "java-runtime-gamma": [
+      {
+        "availability": {
+          "group": 6779,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "472727534e345e4ef88ebddc1fbba3c38d31052e",
+          "size": 95962,
+          "url": "https://piston-meta.mojang.com/v1/packages/472727534e345e4ef88ebddc1fbba3c38d31052e/manifest.json"
+        },
+        "version": {
+          "name": "17.0.3",
+          "released": "2022-04-29T11:43:41+00:00"
+        }
+      }
+    ],
     "jre-legacy": [
       {
         "availability": {
@@ -133,6 +169,29 @@
         }
       }
     ],
+    "minecraft-java-exe": []
+  },
+  "mac-os-arm64": {
+    "java-runtime-alpha": [],
+    "java-runtime-beta": [],
+    "java-runtime-gamma": [
+      {
+        "availability": {
+          "group": 1979,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "fb1ecff317e6cbf6dbec0ec88ad26c49846be96f",
+          "size": 95966,
+          "url": "https://piston-meta.mojang.com/v1/packages/fb1ecff317e6cbf6dbec0ec88ad26c49846be96f/manifest.json"
+        },
+        "version": {
+          "name": "17.0.3",
+          "released": "2022-04-29T11:42:03+00:00"
+        }
+      }
+    ],
+    "jre-legacy": [],
     "minecraft-java-exe": []
   },
   "windows-x64": {
@@ -167,6 +226,23 @@
         "version": {
           "name": "17.0.1.12.1",
           "released": "2021-11-15T14:22:04+00:00"
+        }
+      }
+    ],
+    "java-runtime-gamma": [
+      {
+        "availability": {
+          "group": 7950,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "c1d6e73803941a7b26ef4ae2e95f7d6566c35f67",
+          "size": 147366,
+          "url": "https://piston-meta.mojang.com/v1/packages/c1d6e73803941a7b26ef4ae2e95f7d6566c35f67/manifest.json"
+        },
+        "version": {
+          "name": "17.0.3",
+          "released": "2022-04-29T11:45:17+00:00"
         }
       }
     ],
@@ -237,6 +313,23 @@
         "version": {
           "name": "17.0.1.12.1",
           "released": "2021-11-15T14:19:45+00:00"
+        }
+      }
+    ],
+    "java-runtime-gamma": [
+      {
+        "availability": {
+          "group": 9098,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "901ed1cd7439b65c44a6075be66cef7418fdc0c7",
+          "size": 146979,
+          "url": "https://piston-meta.mojang.com/v1/packages/901ed1cd7439b65c44a6075be66cef7418fdc0c7/manifest.json"
+        },
+        "version": {
+          "name": "17.0.3",
+          "released": "2022-04-29T11:47:25+00:00"
         }
       }
     ],
