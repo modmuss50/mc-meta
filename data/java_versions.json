@@ -14,9 +14,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "3bfc5fdcc28d8897aa12f372ea98a9afeb11a813",
-          "size": 82665,
-          "url": "https://piston-meta.mojang.com/v1/packages/3bfc5fdcc28d8897aa12f372ea98a9afeb11a813/manifest.json"
+          "sha1": "e968e71afd3360e5032deac19e1c14d7aa32f5bb",
+          "size": 81882,
+          "url": "https://launchermeta.mojang.com/v1/packages/e968e71afd3360e5032deac19e1c14d7aa32f5bb/manifest.json"
         },
         "version": {
           "name": "16.0.1.9.1",
@@ -31,9 +31,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "406d142348380dcaccb86af72fcb17f744552a06",
-          "size": 82280,
-          "url": "https://piston-meta.mojang.com/v1/packages/406d142348380dcaccb86af72fcb17f744552a06/manifest.json"
+          "sha1": "00045968710898a03aaae8bb08060019e4c97f6d",
+          "size": 81503,
+          "url": "https://launchermeta.mojang.com/v1/packages/00045968710898a03aaae8bb08060019e4c97f6d/manifest.json"
         },
         "version": {
           "name": "17.0.1.12.1",
@@ -48,9 +48,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "b6344ec6bca76c315e8b47a79b7fce704abffe4b",
-          "size": 82284,
-          "url": "https://piston-meta.mojang.com/v1/packages/b6344ec6bca76c315e8b47a79b7fce704abffe4b/manifest.json"
+          "sha1": "7be0784f0c88afe4c5e5da54906f4da127ad5bfb",
+          "size": 81969,
+          "url": "https://piston-meta.mojang.com/v1/packages/7be0784f0c88afe4c5e5da54906f4da127ad5bfb/manifest.json"
         },
         "version": {
           "name": "17.0.3",
@@ -65,9 +65,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "c529f68a6febc042e71835a579f44d55a3717c46",
-          "size": 127111,
-          "url": "https://piston-meta.mojang.com/v1/packages/c529f68a6febc042e71835a579f44d55a3717c46/manifest.json"
+          "sha1": "a1c15cc788f8893fba7e988eb27404772f699a84",
+          "size": 125581,
+          "url": "https://launchermeta.mojang.com/v1/packages/a1c15cc788f8893fba7e988eb27404772f699a84/manifest.json"
         },
         "version": {
           "name": "8u202",
@@ -88,9 +88,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "6df5ff7142797f409ec41e0b94124e677927f8e2",
-          "size": 128040,
-          "url": "https://piston-meta.mojang.com/v1/packages/6df5ff7142797f409ec41e0b94124e677927f8e2/manifest.json"
+          "sha1": "64c6a0b8e3427c6c3f3ce82729aada8b2634a955",
+          "size": 126498,
+          "url": "https://launchermeta.mojang.com/v1/packages/64c6a0b8e3427c6c3f3ce82729aada8b2634a955/manifest.json"
         },
         "version": {
           "name": "8u202",
@@ -108,9 +108,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "2351fc2fc174c27300e404ab038b88a54cc32455",
-          "size": 96136,
-          "url": "https://piston-meta.mojang.com/v1/packages/2351fc2fc174c27300e404ab038b88a54cc32455/manifest.json"
+          "sha1": "5a480fde2214534ab0b51ae78c70455ffd7c0e6a",
+          "size": 95323,
+          "url": "https://launchermeta.mojang.com/v1/packages/5a480fde2214534ab0b51ae78c70455ffd7c0e6a/manifest.json"
         },
         "version": {
           "name": "16.0.1.9.1_3",
@@ -125,9 +125,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "80d639bc7758203015f3f316a54626c3d86a6ea6",
-          "size": 96277,
-          "url": "https://piston-meta.mojang.com/v1/packages/80d639bc7758203015f3f316a54626c3d86a6ea6/manifest.json"
+          "sha1": "d1455136997ca90bfa5f081159dc2502606ec1c1",
+          "size": 95464,
+          "url": "https://launchermeta.mojang.com/v1/packages/d1455136997ca90bfa5f081159dc2502606ec1c1/manifest.json"
         },
         "version": {
           "name": "17.0.1.12.1",
@@ -142,9 +142,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "f60fcf389a0f35187d0cee768a432cd6eac566f0",
-          "size": 96283,
-          "url": "https://piston-meta.mojang.com/v1/packages/f60fcf389a0f35187d0cee768a432cd6eac566f0/manifest.json"
+          "sha1": "472727534e345e4ef88ebddc1fbba3c38d31052e",
+          "size": 95962,
+          "url": "https://piston-meta.mojang.com/v1/packages/472727534e345e4ef88ebddc1fbba3c38d31052e/manifest.json"
         },
         "version": {
           "name": "17.0.3",
@@ -159,9 +159,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "501341ccea685ea22228e481a57a5f13b62e9a1b",
-          "size": 78351,
-          "url": "https://piston-meta.mojang.com/v1/packages/501341ccea685ea22228e481a57a5f13b62e9a1b/manifest.json"
+          "sha1": "341663b48a0d4e1c448dc789463fced6ba0962e1",
+          "size": 77382,
+          "url": "https://launchermeta.mojang.com/v1/packages/341663b48a0d4e1c448dc789463fced6ba0962e1/manifest.json"
         },
         "version": {
           "name": "8u74",
@@ -181,9 +181,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "346235049f488d716c1b9a17d3859742f0ba0856",
-          "size": 96287,
-          "url": "https://piston-meta.mojang.com/v1/packages/346235049f488d716c1b9a17d3859742f0ba0856/manifest.json"
+          "sha1": "fb1ecff317e6cbf6dbec0ec88ad26c49846be96f",
+          "size": 95966,
+          "url": "https://piston-meta.mojang.com/v1/packages/fb1ecff317e6cbf6dbec0ec88ad26c49846be96f/manifest.json"
         },
         "version": {
           "name": "17.0.3",
@@ -202,9 +202,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "5e91f68978e873ef3b4f533dc1dcb73c2e9efff7",
-          "size": 147226,
-          "url": "https://piston-meta.mojang.com/v1/packages/5e91f68978e873ef3b4f533dc1dcb73c2e9efff7/manifest.json"
+          "sha1": "0586267ba40236e176925da17ca0d29dead3d30d",
+          "size": 145480,
+          "url": "https://launchermeta.mojang.com/v1/packages/0586267ba40236e176925da17ca0d29dead3d30d/manifest.json"
         },
         "version": {
           "name": "16.0.1.9.1",
@@ -219,9 +219,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "5e720d97044b3e3c3d92fabb9a3904398719b8b7",
-          "size": 147276,
-          "url": "https://piston-meta.mojang.com/v1/packages/5e720d97044b3e3c3d92fabb9a3904398719b8b7/manifest.json"
+          "sha1": "b180218a447157cfd0b639aa94b0fa1fc522f80e",
+          "size": 145530,
+          "url": "https://launchermeta.mojang.com/v1/packages/b180218a447157cfd0b639aa94b0fa1fc522f80e/manifest.json"
         },
         "version": {
           "name": "17.0.1.12.1",
@@ -236,9 +236,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "74f9ec828e19df89c6bc7366d1048c5a315119e8",
-          "size": 147693,
-          "url": "https://piston-meta.mojang.com/v1/packages/74f9ec828e19df89c6bc7366d1048c5a315119e8/manifest.json"
+          "sha1": "c1d6e73803941a7b26ef4ae2e95f7d6566c35f67",
+          "size": 147366,
+          "url": "https://piston-meta.mojang.com/v1/packages/c1d6e73803941a7b26ef4ae2e95f7d6566c35f67/manifest.json"
         },
         "version": {
           "name": "17.0.3",
@@ -253,9 +253,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "b857498975fe5c5df26a1faa2b2c8ae7b5d15656",
-          "size": 80028,
-          "url": "https://piston-meta.mojang.com/v1/packages/b857498975fe5c5df26a1faa2b2c8ae7b5d15656/manifest.json"
+          "sha1": "ddc568a50326d2cf85765abb61e752aab191c366",
+          "size": 78978,
+          "url": "https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json"
         },
         "version": {
           "name": "8u51",
@@ -270,9 +270,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "e31b5f1efc06a15da93da7dacb99bff8d3c38afb",
-          "size": 461,
-          "url": "https://piston-meta.mojang.com/v1/packages/e31b5f1efc06a15da93da7dacb99bff8d3c38afb/manifest.json"
+          "sha1": "956d6567682740ab6327a1e8357658d8f7b86421",
+          "size": 455,
+          "url": "https://launchermeta.mojang.com/v1/packages/956d6567682740ab6327a1e8357658d8f7b86421/manifest.json"
         },
         "version": {
           "name": "14",
@@ -289,9 +289,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "41062fddae9baa5a5e6f5a20d4720e604b1e28f6",
-          "size": 145520,
-          "url": "https://piston-meta.mojang.com/v1/packages/41062fddae9baa5a5e6f5a20d4720e604b1e28f6/manifest.json"
+          "sha1": "85c8e2653b5197bbb0fc9257932b670c630e1c77",
+          "size": 143786,
+          "url": "https://launchermeta.mojang.com/v1/packages/85c8e2653b5197bbb0fc9257932b670c630e1c77/manifest.json"
         },
         "version": {
           "name": "16.0.1.9.1",
@@ -306,9 +306,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "3c18a05bbeca36894e6f73b9f33ab81df1067437",
-          "size": 146895,
-          "url": "https://piston-meta.mojang.com/v1/packages/3c18a05bbeca36894e6f73b9f33ab81df1067437/manifest.json"
+          "sha1": "6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a",
+          "size": 145146,
+          "url": "https://launchermeta.mojang.com/v1/packages/6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a/manifest.json"
         },
         "version": {
           "name": "17.0.1.12.1",
@@ -323,9 +323,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "46325bfb122ddf89be5fecba2699cbc3f30f20a2",
-          "size": 147306,
-          "url": "https://piston-meta.mojang.com/v1/packages/46325bfb122ddf89be5fecba2699cbc3f30f20a2/manifest.json"
+          "sha1": "901ed1cd7439b65c44a6075be66cef7418fdc0c7",
+          "size": 146979,
+          "url": "https://piston-meta.mojang.com/v1/packages/901ed1cd7439b65c44a6075be66cef7418fdc0c7/manifest.json"
         },
         "version": {
           "name": "17.0.3",
@@ -340,9 +340,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "ae4a64107cd5c9f57c5125ca2096bb4864d10f26",
-          "size": 81684,
-          "url": "https://piston-meta.mojang.com/v1/packages/ae4a64107cd5c9f57c5125ca2096bb4864d10f26/manifest.json"
+          "sha1": "baa62193c2785f54d877d871d9859c67d65f08ba",
+          "size": 80613,
+          "url": "https://launchermeta.mojang.com/v1/packages/baa62193c2785f54d877d871d9859c67d65f08ba/manifest.json"
         },
         "version": {
           "name": "8u51",
@@ -357,9 +357,9 @@
           "progress": 100
         },
         "manifest": {
-          "sha1": "47718d230325c8381f33a371f060ce3149f8001a",
-          "size": 461,
-          "url": "https://piston-meta.mojang.com/v1/packages/47718d230325c8381f33a371f060ce3149f8001a/manifest.json"
+          "sha1": "5d5cf8b579ccf4a3567eef481b12479ee8c35369",
+          "size": 455,
+          "url": "https://launchermeta.mojang.com/v1/packages/5d5cf8b579ccf4a3567eef481b12479ee8c35369/manifest.json"
         },
         "version": {
           "name": "12",
