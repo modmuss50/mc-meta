@@ -194,6 +194,29 @@
     "jre-legacy": [],
     "minecraft-java-exe": []
   },
+  "windows-arm64": {
+    "java-runtime-alpha": [],
+    "java-runtime-beta": [],
+    "java-runtime-gamma": [
+      {
+        "availability": {
+          "group": 7173,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "7997c3732695e98bc3ddf6bfe068efa0c23f4d44",
+          "size": 125212,
+          "url": "https://piston-meta.mojang.com/v1/packages/7997c3732695e98bc3ddf6bfe068efa0c23f4d44/manifest.json"
+        },
+        "version": {
+          "name": "17.0.3",
+          "released": "2023-04-26T11:59:29+00:00"
+        }
+      }
+    ],
+    "jre-legacy": [],
+    "minecraft-java-exe": []
+  },
   "windows-x64": {
     "java-runtime-alpha": [
       {
