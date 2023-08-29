@@ -3,6 +3,7 @@
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
     "java-runtime-gamma": [],
+    "java-runtime-gamma-snapshot": [],
     "jre-legacy": [],
     "minecraft-java-exe": []
   },
@@ -58,6 +59,23 @@
         }
       }
     ],
+    "java-runtime-gamma-snapshot": [
+      {
+        "availability": {
+          "group": 3601,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "f3e086257efca1a662f7276c415e3a9879c90ee9",
+          "size": 82289,
+          "url": "https://piston-meta.mojang.com/v1/packages/f3e086257efca1a662f7276c415e3a9879c90ee9/manifest.json"
+        },
+        "version": {
+          "name": "17.0.8",
+          "released": "2023-08-29T12:39:19+00:00"
+        }
+      }
+    ],
     "jre-legacy": [
       {
         "availability": {
@@ -81,6 +99,7 @@
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
     "java-runtime-gamma": [],
+    "java-runtime-gamma-snapshot": [],
     "jre-legacy": [
       {
         "availability": {
@@ -152,6 +171,23 @@
         }
       }
     ],
+    "java-runtime-gamma-snapshot": [
+      {
+        "availability": {
+          "group": 857,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "e9f3153d8426a44410c9e8ceba185ebc81f5780c",
+          "size": 96288,
+          "url": "https://piston-meta.mojang.com/v1/packages/e9f3153d8426a44410c9e8ceba185ebc81f5780c/manifest.json"
+        },
+        "version": {
+          "name": "17.0.8",
+          "released": "2023-08-29T12:36:48+00:00"
+        }
+      }
+    ],
     "jre-legacy": [
       {
         "availability": {
@@ -191,6 +227,23 @@
         }
       }
     ],
+    "java-runtime-gamma-snapshot": [
+      {
+        "availability": {
+          "group": 1478,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "453682d6317aefaaada5e2a6ad2fe486c3aaa7ab",
+          "size": 96292,
+          "url": "https://piston-meta.mojang.com/v1/packages/453682d6317aefaaada5e2a6ad2fe486c3aaa7ab/manifest.json"
+        },
+        "version": {
+          "name": "17.0.8",
+          "released": "2023-08-29T12:42:11+00:00"
+        }
+      }
+    ],
     "jre-legacy": [],
     "minecraft-java-exe": []
   },
@@ -211,6 +264,23 @@
         "version": {
           "name": "17.0.3",
           "released": "2023-04-26T11:59:29+00:00"
+        }
+      }
+    ],
+    "java-runtime-gamma-snapshot": [
+      {
+        "availability": {
+          "group": 6478,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "e4c3cfba7c52464f31f139ccf892c9712c8a226f",
+          "size": 124857,
+          "url": "https://piston-meta.mojang.com/v1/packages/e4c3cfba7c52464f31f139ccf892c9712c8a226f/manifest.json"
+        },
+        "version": {
+          "name": "17.0.8",
+          "released": "2023-08-29T12:46:15+00:00"
         }
       }
     ],
@@ -266,6 +336,23 @@
         "version": {
           "name": "17.0.3",
           "released": "2022-04-29T11:45:17+00:00"
+        }
+      }
+    ],
+    "java-runtime-gamma-snapshot": [
+      {
+        "availability": {
+          "group": 9614,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "3355e10f323c52ed92c1e477e0b3d12dbcbdb596",
+          "size": 147698,
+          "url": "https://piston-meta.mojang.com/v1/packages/3355e10f323c52ed92c1e477e0b3d12dbcbdb596/manifest.json"
+        },
+        "version": {
+          "name": "17.0.8",
+          "released": "2023-08-29T12:34:40+00:00"
         }
       }
     ],
@@ -353,6 +440,23 @@
         "version": {
           "name": "17.0.3",
           "released": "2022-04-29T11:47:25+00:00"
+        }
+      }
+    ],
+    "java-runtime-gamma-snapshot": [
+      {
+        "availability": {
+          "group": 7077,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "731e0cc5c4827011c34ad53ca2c8af19a793d4f4",
+          "size": 147306,
+          "url": "https://piston-meta.mojang.com/v1/packages/731e0cc5c4827011c34ad53ca2c8af19a793d4f4/manifest.json"
+        },
+        "version": {
+          "name": "17.0.4",
+          "released": "2023-08-29T12:48:42+00:00"
         }
       }
     ],
