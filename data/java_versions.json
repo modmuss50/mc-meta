@@ -446,17 +446,17 @@
     "java-runtime-gamma-snapshot": [
       {
         "availability": {
-          "group": 7077,
+          "group": 9526,
           "progress": 100
         },
         "manifest": {
-          "sha1": "731e0cc5c4827011c34ad53ca2c8af19a793d4f4",
-          "size": 147306,
-          "url": "https://piston-meta.mojang.com/v1/packages/731e0cc5c4827011c34ad53ca2c8af19a793d4f4/manifest.json"
+          "sha1": "5c9039c8f794a07a213b91fee846ed7376017731",
+          "size": 147399,
+          "url": "https://piston-meta.mojang.com/v1/packages/5c9039c8f794a07a213b91fee846ed7376017731/manifest.json"
         },
         "version": {
-          "name": "17.0.4",
-          "released": "2023-08-29T12:48:42+00:00"
+          "name": "17.0.8.1",
+          "released": "2023-09-06T12:10:08+00:00"
         }
       }
     ],
