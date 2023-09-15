@@ -45,17 +45,17 @@
     "java-runtime-gamma": [
       {
         "availability": {
-          "group": 1661,
+          "group": 5199,
           "progress": 100
         },
         "manifest": {
-          "sha1": "b6344ec6bca76c315e8b47a79b7fce704abffe4b",
-          "size": 82284,
-          "url": "https://piston-meta.mojang.com/v1/packages/b6344ec6bca76c315e8b47a79b7fce704abffe4b/manifest.json"
+          "sha1": "f3e086257efca1a662f7276c415e3a9879c90ee9",
+          "size": 82289,
+          "url": "https://piston-meta.mojang.com/v1/packages/f3e086257efca1a662f7276c415e3a9879c90ee9/manifest.json"
         },
         "version": {
-          "name": "17.0.3",
-          "released": "2022-04-29T11:40:02+00:00"
+          "name": "17.0.8",
+          "released": "2023-09-15T08:28:43+00:00"
         }
       }
     ],
@@ -157,17 +157,17 @@
     "java-runtime-gamma": [
       {
         "availability": {
-          "group": 6779,
+          "group": 7301,
           "progress": 100
         },
         "manifest": {
-          "sha1": "f60fcf389a0f35187d0cee768a432cd6eac566f0",
-          "size": 96283,
-          "url": "https://piston-meta.mojang.com/v1/packages/f60fcf389a0f35187d0cee768a432cd6eac566f0/manifest.json"
+          "sha1": "e9f3153d8426a44410c9e8ceba185ebc81f5780c",
+          "size": 96288,
+          "url": "https://piston-meta.mojang.com/v1/packages/e9f3153d8426a44410c9e8ceba185ebc81f5780c/manifest.json"
         },
         "version": {
-          "name": "17.0.3",
-          "released": "2022-04-29T11:43:41+00:00"
+          "name": "17.0.8",
+          "released": "2023-09-15T08:29:20+00:00"
         }
       }
     ],
@@ -213,17 +213,17 @@
     "java-runtime-gamma": [
       {
         "availability": {
-          "group": 1979,
+          "group": 7274,
           "progress": 100
         },
         "manifest": {
-          "sha1": "346235049f488d716c1b9a17d3859742f0ba0856",
-          "size": 96287,
-          "url": "https://piston-meta.mojang.com/v1/packages/346235049f488d716c1b9a17d3859742f0ba0856/manifest.json"
+          "sha1": "453682d6317aefaaada5e2a6ad2fe486c3aaa7ab",
+          "size": 96292,
+          "url": "https://piston-meta.mojang.com/v1/packages/453682d6317aefaaada5e2a6ad2fe486c3aaa7ab/manifest.json"
         },
         "version": {
-          "name": "17.0.3",
-          "released": "2022-04-29T11:42:03+00:00"
+          "name": "17.0.8",
+          "released": "2023-09-15T08:27:57+00:00"
         }
       }
     ],
@@ -253,17 +253,17 @@
     "java-runtime-gamma": [
       {
         "availability": {
-          "group": 7173,
+          "group": 2167,
           "progress": 100
         },
         "manifest": {
-          "sha1": "7997c3732695e98bc3ddf6bfe068efa0c23f4d44",
-          "size": 125212,
-          "url": "https://piston-meta.mojang.com/v1/packages/7997c3732695e98bc3ddf6bfe068efa0c23f4d44/manifest.json"
+          "sha1": "d47cd46e4820a5aac61bc9a08f9374c7cebb341b",
+          "size": 125216,
+          "url": "https://piston-meta.mojang.com/v1/packages/d47cd46e4820a5aac61bc9a08f9374c7cebb341b/manifest.json"
         },
         "version": {
-          "name": "17.0.3",
-          "released": "2023-04-26T11:59:29+00:00"
+          "name": "17.0.8",
+          "released": "2023-09-15T08:27:13+00:00"
         }
       }
     ],
@@ -325,17 +325,17 @@
     "java-runtime-gamma": [
       {
         "availability": {
-          "group": 7950,
+          "group": 8603,
           "progress": 100
         },
         "manifest": {
-          "sha1": "74f9ec828e19df89c6bc7366d1048c5a315119e8",
-          "size": 147693,
-          "url": "https://piston-meta.mojang.com/v1/packages/74f9ec828e19df89c6bc7366d1048c5a315119e8/manifest.json"
+          "sha1": "3355e10f323c52ed92c1e477e0b3d12dbcbdb596",
+          "size": 147698,
+          "url": "https://piston-meta.mojang.com/v1/packages/3355e10f323c52ed92c1e477e0b3d12dbcbdb596/manifest.json"
         },
         "version": {
-          "name": "17.0.3",
-          "released": "2022-04-29T11:45:17+00:00"
+          "name": "17.0.8",
+          "released": "2023-09-15T08:23:36+00:00"
         }
       }
     ],
@@ -429,17 +429,17 @@
     "java-runtime-gamma": [
       {
         "availability": {
-          "group": 9098,
+          "group": 5201,
           "progress": 100
         },
         "manifest": {
-          "sha1": "46325bfb122ddf89be5fecba2699cbc3f30f20a2",
-          "size": 147306,
-          "url": "https://piston-meta.mojang.com/v1/packages/46325bfb122ddf89be5fecba2699cbc3f30f20a2/manifest.json"
+          "sha1": "5c9039c8f794a07a213b91fee846ed7376017731",
+          "size": 147399,
+          "url": "https://piston-meta.mojang.com/v1/packages/5c9039c8f794a07a213b91fee846ed7376017731/manifest.json"
         },
         "version": {
-          "name": "17.0.3",
-          "released": "2022-04-29T11:47:25+00:00"
+          "name": "17.0.8.1",
+          "released": "2023-09-15T08:26:28+00:00"
         }
       }
     ],
