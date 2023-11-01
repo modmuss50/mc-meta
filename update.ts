@@ -2,18 +2,27 @@ import { ensureDir } from "https://deno.land/std@0.204.0/fs/mod.ts";
 import { PromisePool } from "https://deno.land/x/promise_pool@0.0.3/index.ts";
 
 const pool = new PromisePool({ concurrency: 8 });
-
-console.log("Updating");
+const maxRetries = 3;
 
 await ensureDir("./data/versions/");
 
 async function downloadJson(url: string, path: string) {
   console.log("Downloading " + url);
-  const res = await fetch(url);
-  const data = await res.json();
-  const json = JSON.stringify(data, null, 2);
-  await Deno.writeTextFile("./data/" + path, json);
-  return data;
+  for (let i = 0; i < maxRetries; i++) {
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+      const json = JSON.stringify(data, null, 2);
+      await Deno.writeTextFile("./data/" + path, json);
+      return data;
+    } catch (e) {
+      console.log("Error downloading " + url + " retrying");
+
+      if (i == maxRetries - 1) {
+        throw e;
+      }
+    }
+  }
 }
 
 const manifest = await downloadJson(
