@@ -2,6 +2,7 @@
   "gamecore": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
+    "java-runtime-delta": [],
     "java-runtime-gamma": [],
     "java-runtime-gamma-snapshot": [],
     "jre-legacy": [],
@@ -42,6 +43,7 @@
         }
       }
     ],
+    "java-runtime-delta": [],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -98,6 +100,7 @@
   "linux-i386": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
+    "java-runtime-delta": [],
     "java-runtime-gamma": [],
     "java-runtime-gamma-snapshot": [],
     "jre-legacy": [
@@ -154,6 +157,7 @@
         }
       }
     ],
+    "java-runtime-delta": [],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -210,6 +214,7 @@
   "mac-os-arm64": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
+    "java-runtime-delta": [],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -250,6 +255,23 @@
   "windows-arm64": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
+    "java-runtime-delta": [
+      {
+        "availability": {
+          "group": 3628,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "6ea44744ffbf21f96c347da4efaa7399ac2198c7",
+          "size": 125603,
+          "url": "https://piston-meta.mojang.com/v1/packages/6ea44744ffbf21f96c347da4efaa7399ac2198c7/manifest.json"
+        },
+        "version": {
+          "name": "21.0.2",
+          "released": "2024-02-27T12:22:00+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -319,6 +341,23 @@
         "version": {
           "name": "17.0.1.12.1",
           "released": "2021-11-15T14:22:04+00:00"
+        }
+      }
+    ],
+    "java-runtime-delta": [
+      {
+        "availability": {
+          "group": 1946,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "87e1f5cdab7ed4191f88e1f47677b85852d86ee4",
+          "size": 148085,
+          "url": "https://piston-meta.mojang.com/v1/packages/87e1f5cdab7ed4191f88e1f47677b85852d86ee4/manifest.json"
+        },
+        "version": {
+          "name": "21.0.2",
+          "released": "2024-02-27T12:19:15+00:00"
         }
       }
     ],
@@ -426,6 +465,7 @@
         }
       }
     ],
+    "java-runtime-delta": [],
     "java-runtime-gamma": [
       {
         "availability": {
