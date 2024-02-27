@@ -43,7 +43,23 @@
         }
       }
     ],
-    "java-runtime-delta": [],
+    "java-runtime-delta": [
+      {
+        "availability": {
+          "group": 5000,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "f5cd0af637e243e49bded9c800b7055d51097375",
+          "size": 82580,
+          "url": "https://piston-meta.mojang.com/v1/packages/f5cd0af637e243e49bded9c800b7055d51097375/manifest.json"
+        },
+        "version": {
+          "name": "21.0.2",
+          "released": "2024-02-27T12:24:10+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -157,7 +173,23 @@
         }
       }
     ],
-    "java-runtime-delta": [],
+    "java-runtime-delta": [
+      {
+        "availability": {
+          "group": 7230,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "b86b216e4d5e9902f0c7e1ed5df3db5b44a92795",
+          "size": 97666,
+          "url": "https://piston-meta.mojang.com/v1/packages/b86b216e4d5e9902f0c7e1ed5df3db5b44a92795/manifest.json"
+        },
+        "version": {
+          "name": "21.0.2",
+          "released": "2024-02-27T12:26:22+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -214,7 +246,23 @@
   "mac-os-arm64": {
     "java-runtime-alpha": [],
     "java-runtime-beta": [],
-    "java-runtime-delta": [],
+    "java-runtime-delta": [
+      {
+        "availability": {
+          "group": 1815,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "33b82b6eecfb3c6e7ce2f72717e5eb3d66f2a392",
+          "size": 97765,
+          "url": "https://piston-meta.mojang.com/v1/packages/33b82b6eecfb3c6e7ce2f72717e5eb3d66f2a392/manifest.json"
+        },
+        "version": {
+          "name": "21.0.2",
+          "released": "2024-02-27T12:28:20+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
