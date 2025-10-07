@@ -227,17 +227,17 @@
     "jre-legacy": [
       {
         "availability": {
-          "group": 8727,
+          "group": 4477,
           "progress": 100
         },
         "manifest": {
-          "sha1": "501341ccea685ea22228e481a57a5f13b62e9a1b",
-          "size": 78351,
-          "url": "https://piston-meta.mojang.com/v1/packages/501341ccea685ea22228e481a57a5f13b62e9a1b/manifest.json"
+          "sha1": "78e31aa15b3f437f37263351436f63e0a96e0067",
+          "size": 77882,
+          "url": "https://piston-meta.mojang.com/v1/packages/78e31aa15b3f437f37263351436f63e0a96e0067/manifest.json"
         },
         "version": {
-          "name": "8u74",
-          "released": "2020-11-17T19:06:44+00:00"
+          "name": "8u74-cacert462b08",
+          "released": "2025-10-07T07:43:14+00:00"
         }
       }
     ],
