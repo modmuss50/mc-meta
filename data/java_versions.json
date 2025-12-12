@@ -61,7 +61,23 @@
         }
       }
     ],
-    "java-runtime-epsilon": [],
+    "java-runtime-epsilon": [
+      {
+        "availability": {
+          "group": 3012,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "ccf325ef8f5be596cf8229fd349298d8a74d2388",
+          "size": 88214,
+          "url": "https://piston-meta.mojang.com/v1/packages/ccf325ef8f5be596cf8229fd349298d8a74d2388/manifest.json"
+        },
+        "version": {
+          "name": "25.0.1",
+          "released": "2025-12-10T14:20:17+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -193,7 +209,23 @@
         }
       }
     ],
-    "java-runtime-epsilon": [],
+    "java-runtime-epsilon": [
+      {
+        "availability": {
+          "group": 7469,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "3ba13e402261e7c94f37b22d7293c9558bcdaab0",
+          "size": 102471,
+          "url": "https://piston-meta.mojang.com/v1/packages/3ba13e402261e7c94f37b22d7293c9558bcdaab0/manifest.json"
+        },
+        "version": {
+          "name": "25.0.1",
+          "released": "2025-12-10T14:22:34+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -267,7 +299,23 @@
         }
       }
     ],
-    "java-runtime-epsilon": [],
+    "java-runtime-epsilon": [
+      {
+        "availability": {
+          "group": 8179,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "5643d63e75d54da43c9501cdb1988530a9bc5d7f",
+          "size": 103399,
+          "url": "https://piston-meta.mojang.com/v1/packages/5643d63e75d54da43c9501cdb1988530a9bc5d7f/manifest.json"
+        },
+        "version": {
+          "name": "25.0.1",
+          "released": "2025-12-10T14:24:00+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
@@ -325,7 +373,23 @@
         }
       }
     ],
-    "java-runtime-epsilon": [],
+    "java-runtime-epsilon": [
+      {
+        "availability": {
+          "group": 8012,
+          "progress": 100
+        },
+        "manifest": {
+          "sha1": "3f0593d019d72bb47805f9e0f07b850cec398afa",
+          "size": 130191,
+          "url": "https://piston-meta.mojang.com/v1/packages/3f0593d019d72bb47805f9e0f07b850cec398afa/manifest.json"
+        },
+        "version": {
+          "name": "25.0.0",
+          "released": "2025-12-10T14:21:40+00:00"
+        }
+      }
+    ],
     "java-runtime-gamma": [
       {
         "availability": {
