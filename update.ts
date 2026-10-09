@@ -1,19 +1,49 @@
-import { ensureDir } from "https://deno.land/std@0.204.0/fs/mod.ts";
-import { PromisePool } from "https://deno.land/x/promise_pool@0.0.3/index.ts";
+import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 
-const pool = new PromisePool({ concurrency: 8 });
+const concurrency = 8;
 const maxRetries = 3;
 
-await ensureDir("./data/versions/");
+await mkdir("./data/versions/", { recursive: true });
 
-async function downloadJson(url: string, path: string) {
+type Version = { id: string; url: string };
+type Manifest = { versions: Version[] };
+
+async function readOptional(path: string) {
+  try {
+    return await readFile("./data/" + path, "utf8");
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") return undefined;
+    throw error;
+  }
+}
+
+async function writeJson(path: string, data: unknown) {
+  const json = JSON.stringify(data, null, 2);
+  if (await readOptional(path) !== json) {
+    await writeFile("./data/" + path, json, "utf8");
+  }
+}
+
+async function exists(path: string) {
+  try {
+    await access("./data/" + path);
+    return true;
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") return false;
+    throw error;
+  }
+}
+
+async function downloadJson(url: string, path?: string) {
   console.log("Downloading " + url);
   for (let i = 0; i < maxRetries; i++) {
     try {
       const res = await fetch(url);
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status} downloading ${url}`);
+      }
       const data = await res.json();
-      const json = JSON.stringify(data, null, 2);
-      await Deno.writeTextFile("./data/" + path, json);
+      if (path !== undefined) await writeJson(path, data);
       return data;
     } catch (e) {
       console.log("Error downloading " + url + " retrying");
@@ -25,21 +55,33 @@ async function downloadJson(url: string, path: string) {
   }
 }
 
-const manifest = await downloadJson(
+const previousJson = await readOptional("version_manifest_v2.json");
+const previous: Manifest | undefined = previousJson === undefined
+  ? undefined
+  : JSON.parse(previousJson);
+const previousUrls = new Map(previous?.versions.map(({ id, url }) => [id, url]));
+
+const manifest: Manifest = await downloadJson(
   "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
-  "version_manifest_v2.json",
 );
 
-const versions: any[] = manifest.versions;
+const versions = manifest.versions;
 
-await Promise.all(versions.map((version) => {
-  return pool.open(async () => {
-    await downloadJson(version.url, "versions/" + version.id + ".json");
-  });
+let nextVersion = 0;
+await Promise.all(Array.from({ length: concurrency }, async () => {
+  while (nextVersion < versions.length) {
+    const version = versions[nextVersion++];
+    const path = "versions/" + version.id + ".json";
+    if (previousUrls.get(version.id) !== version.url || !await exists(path)) {
+      await downloadJson(version.url, path);
+    }
+  }
 }));
 
 const latest = versions[0];
-await downloadJson(latest.url, "latest.json");
+await writeJson("latest.json", JSON.parse(
+  await readFile("./data/versions/" + latest.id + ".json", "utf8"),
+));
 
 await downloadJson(
   "https://piston-meta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json",
@@ -49,3 +91,6 @@ await downloadJson(
   "https://piston-meta.mojang.com/mc/game/version_manifest.json",
   "version_manifest.json",
 );
+
+// Commit the change index only after every download succeeds.
+await writeJson("version_manifest_v2.json", manifest);

@@ -1,1 +1,21 @@
-/data
+# Ignore everything except the project files and generated metadata below.
+*
+
+!/.gitignore
+!/.nvmrc
+!/update.ts
+
+!/.github/
+!/.github/workflows/
+!/.github/workflows/update.yml
+
+!/.vscode/
+!/.vscode/settings.json
+
+!/data/
+!/data/java_versions.json
+!/data/latest.json
+!/data/version_manifest.json
+!/data/version_manifest_v2.json
+!/data/versions/
+!/data/versions/*.json
