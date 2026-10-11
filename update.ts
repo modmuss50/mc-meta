@@ -91,6 +91,10 @@ await downloadJson(
   "https://piston-meta.mojang.com/mc/game/version_manifest.json",
   "version_manifest.json",
 );
+await downloadJson(
+  "https://api.minecraftservices.com/publickeys",
+  "publickeys.json",
+);
 
 // Commit the change index only after every download succeeds.
 await writeJson("version_manifest_v2.json", manifest);

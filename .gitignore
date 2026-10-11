@@ -15,6 +15,7 @@
 !/data/
 !/data/java_versions.json
 !/data/latest.json
+!/data/publickeys.json
 !/data/version_manifest.json
 !/data/version_manifest_v2.json
 !/data/versions/
