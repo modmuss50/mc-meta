@@ -217,26 +217,26 @@
   },
   "assetIndex": {
     "id": "36",
-    "sha1": "3c8413663ade87ace9bad1cf8be10796f45abb70",
+    "sha1": "dc60cd6e824a2081fca0527b0b7e6e758fb863b8",
     "size": 626816,
-    "totalSize": 484842820,
-    "url": "https://piston-meta.mojang.com/v1/packages/3c8413663ade87ace9bad1cf8be10796f45abb70/36.json"
+    "totalSize": 484906173,
+    "url": "https://piston-meta.mojang.com/v1/packages/dc60cd6e824a2081fca0527b0b7e6e758fb863b8/36.json"
   },
   "assets": "36",
   "complianceLevel": 1,
   "downloads": {
     "client": {
-      "sha1": "20d822c927fd9b3246f72b5af93b1e4f8e410d74",
-      "size": 42514822,
-      "url": "https://piston-data.mojang.com/v1/objects/20d822c927fd9b3246f72b5af93b1e4f8e410d74/client.jar"
+      "sha1": "d3b02f63097a0c1d443c7b5f8cb65b5435c9f6db",
+      "size": 42620484,
+      "url": "https://piston-data.mojang.com/v1/objects/d3b02f63097a0c1d443c7b5f8cb65b5435c9f6db/client.jar"
     },
     "server": {
-      "sha1": "5c4d729eca710d0a83b2d54a2cc94216b568385c",
-      "size": 63590880,
-      "url": "https://piston-data.mojang.com/v1/objects/5c4d729eca710d0a83b2d54a2cc94216b568385c/server.jar"
+      "sha1": "d713516162441e0961e1ccfb85d8feeb01b50fd6",
+      "size": 63998326,
+      "url": "https://piston-data.mojang.com/v1/objects/d713516162441e0961e1ccfb85d8feeb01b50fd6/server.jar"
     }
   },
-  "id": "26.4-snapshot-8",
+  "id": "26.4-snapshot-10",
   "javaVersion": {
     "component": "java-runtime-epsilon",
     "majorVersion": 25
@@ -363,13 +363,13 @@
     {
       "downloads": {
         "artifact": {
-          "path": "com/mojang/authlib/12.0.81/authlib-12.0.81.jar",
-          "sha1": "7fac0f563667040e4d25a0c7f8714f8241c5e377",
-          "size": 158375,
-          "url": "https://libraries.minecraft.net/com/mojang/authlib/12.0.81/authlib-12.0.81.jar"
+          "path": "com/mojang/authlib/12.0.82/authlib-12.0.82.jar",
+          "sha1": "93399b2668d84d171c07b8eb99bd118823285fc2",
+          "size": 167403,
+          "url": "https://libraries.minecraft.net/com/mojang/authlib/12.0.82/authlib-12.0.82.jar"
         }
       },
-      "name": "com.mojang:authlib:12.0.81"
+      "name": "com.mojang:authlib:12.0.82"
     },
     {
       "downloads": {
@@ -2010,7 +2010,7 @@
   },
   "mainClass": "net.minecraft.client.main.Main",
   "minimumLauncherVersion": 21,
-  "releaseTime": "2026-11-10T14:20:05+00:00",
-  "time": "2026-11-10T14:20:05+00:00",
+  "releaseTime": "2026-11-17T16:02:02+00:00",
+  "time": "2026-11-17T16:02:02+00:00",
   "type": "snapshot"
 }
