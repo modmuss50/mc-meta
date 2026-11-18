@@ -376,17 +376,17 @@
     "java-runtime-epsilon": [
       {
         "availability": {
-          "group": 4062,
+          "group": 8012,
           "progress": 100
         },
         "manifest": {
-          "sha1": "0905e6eb4791b41d9d2c0fe4094e19e7e7aba090",
-          "size": 130183,
-          "url": "https://piston-meta.mojang.com/v1/packages/0905e6eb4791b41d9d2c0fe4094e19e7e7aba090/manifest.json"
+          "sha1": "3f0593d019d72bb47805f9e0f07b850cec398afa",
+          "size": 130191,
+          "url": "https://piston-meta.mojang.com/v1/packages/3f0593d019d72bb47805f9e0f07b850cec398afa/manifest.json"
         },
         "version": {
-          "name": "25.0.5.1",
-          "released": "2026-11-18T13:25:17+00:00"
+          "name": "25.0.0",
+          "released": "2025-12-10T14:21:40+00:00"
         }
       }
     ],
@@ -482,17 +482,17 @@
     "java-runtime-epsilon": [
       {
         "availability": {
-          "group": 4502,
+          "group": 6030,
           "progress": 100
         },
         "manifest": {
-          "sha1": "f2103540f9bcafee0e0f9a0c4ea3ef0c6242271b",
-          "size": 152665,
-          "url": "https://piston-meta.mojang.com/v1/packages/f2103540f9bcafee0e0f9a0c4ea3ef0c6242271b/manifest.json"
+          "sha1": "b374544c680d965fb5535977d7cb04c6befe1930",
+          "size": 152664,
+          "url": "https://piston-meta.mojang.com/v1/packages/b374544c680d965fb5535977d7cb04c6befe1930/manifest.json"
         },
         "version": {
-          "name": "25.0.5.1",
-          "released": "2026-11-18T13:32:12+00:00"
+          "name": "25.0.1",
+          "released": "2025-12-10T14:14:17+00:00"
         }
       }
     ],
