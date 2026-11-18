@@ -482,17 +482,17 @@
     "java-runtime-epsilon": [
       {
         "availability": {
-          "group": 6030,
+          "group": 4502,
           "progress": 100
         },
         "manifest": {
-          "sha1": "b374544c680d965fb5535977d7cb04c6befe1930",
-          "size": 152664,
-          "url": "https://piston-meta.mojang.com/v1/packages/b374544c680d965fb5535977d7cb04c6befe1930/manifest.json"
+          "sha1": "f2103540f9bcafee0e0f9a0c4ea3ef0c6242271b",
+          "size": 152665,
+          "url": "https://piston-meta.mojang.com/v1/packages/f2103540f9bcafee0e0f9a0c4ea3ef0c6242271b/manifest.json"
         },
         "version": {
-          "name": "25.0.1",
-          "released": "2025-12-10T14:14:17+00:00"
+          "name": "25.0.5.1",
+          "released": "2026-11-18T13:32:12+00:00"
         }
       }
     ],
